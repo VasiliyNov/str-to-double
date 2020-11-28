@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+d:\c++projects\convertdouble\convertdouble\stdafx.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+  ConvertDouble.cpp
+  ConvertDouble.vcxproj -> D:\C++Projects\ConvertDouble\Debug\ConvertDouble.exe
+  ConvertDouble.vcxproj -> D:\C++Projects\ConvertDouble\Debug\ConvertDouble.pdb (Full PDB)
