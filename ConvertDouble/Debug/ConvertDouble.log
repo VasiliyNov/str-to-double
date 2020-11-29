@@ -1,5 +1,6 @@
 ﻿  stdafx.cpp
-d:\c++projects\convertdouble\convertdouble\stdafx.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\pro\desktop\str-to-double\convertdouble\stdafx.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
   ConvertDouble.cpp
-  ConvertDouble.vcxproj -> D:\C++Projects\ConvertDouble\Debug\ConvertDouble.exe
-  ConvertDouble.vcxproj -> D:\C++Projects\ConvertDouble\Debug\ConvertDouble.pdb (Full PDB)
+  LINK : не найден или не выполнена сборка C:\Users\Pro\Desktop\str-to-double\Debug\ConvertDouble.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConvertDouble.vcxproj -> C:\Users\Pro\Desktop\str-to-double\Debug\ConvertDouble.exe
+  ConvertDouble.vcxproj -> C:\Users\Pro\Desktop\str-to-double\Debug\ConvertDouble.pdb (Full PDB)
